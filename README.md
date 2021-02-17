@@ -46,7 +46,7 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 
 ## :file_folder: Como executar a aplicação
 > - Clonar o projeto e abrir ele no Eclipse;
-> :two: Ir na classe que possua o método main;
+> - Ir na classe que possua o método main;
 > :three: Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run;
 > :four: Caso preferir, também pode executar clicando na tela, escolher a opção Run as e depois Java Application.
 
