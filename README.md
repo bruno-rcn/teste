@@ -56,5 +56,6 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 
 ## :bust_in_silhouette: Autor
 :computer: Bruno Noberto: [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
+<br/>
 :telephone_receiver: +55 (11) 95651-8678
 *******
