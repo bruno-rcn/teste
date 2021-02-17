@@ -4,8 +4,9 @@
 > - Finalizado! 
 
 # Tabela de conteúdo
-1. [Sobre o Projeto](#Sobre o projeto)
+1. [Sobre o Projeto](#whatismarkdown)
 
+<div id='whatismarkdown'/>
 ## Sobre o Projeto
 Projeto referente ao curso de Java e orientação objeto da plataforma Alura sobre a sintaxe básica da linguagem utilizando o Eclipse como IDE.
 Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos;
