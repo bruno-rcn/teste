@@ -5,17 +5,18 @@
 
 *******
 # Tabela de conteúdo
-1. [Sobre o Projeto](#whatismarkdown)
-2. [Porque usar Markdown?](#why)
-3. [Ferramentas para Markdown](#tools)
-4. [Sintaxe de Markdown](#syntax)
+1. [Sobre o Projeto](#sobre)
+2. [](#)
+3. [](#)
+4. []()
 *******
 
-<div id='whatismarkdown'/>
-
+<div id='sobre'/>
 ## Sobre o Projeto
-Projeto referente ao curso de Java e orientação objeto da plataforma Alura sobre a sintaxe básica da linguagem utilizando o Eclipse como IDE.
+>*Projeto referente ao curso de Java e orientação objeto da plataforma Alura sobre a sintaxe básica da linguagem utilizando o Eclipse como IDE.
 Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos;
+
+<div id='whatismarkdown'/>
 
 ## 🛠 Técnologias utilizadas
 - Linguagem: Java
