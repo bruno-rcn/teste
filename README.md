@@ -4,7 +4,7 @@
 > - Finalizado! :white_check_mark:
 
 *******
-# Tabela de conteúdo
+# :file_folder: Tabela de conteúdo
 1. [Sobre o Projeto](#sobre)
 2. [Técnologias utilizadas](#ferramentas)
 3. [Como montar o ambiente](#ambiente)
@@ -54,6 +54,6 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 
 <div id='autor'/>
 
-## :pencil2: Autor :computer:
+## :file_folder: Autor :computer:
 :bust_in_silhouette: Bruno Noberto: [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
 *******
