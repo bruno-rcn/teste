@@ -34,11 +34,11 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 
 ## :file_folder: Como montar o ambiente
 
-> ### :pushpin: Java -> [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
-- Guia de intalação do Java: [Tutorial DevMedia - Intalação e configuração](https://www.devmedia.com.br/instalacao-e-configuracao-do-pacote-java-jdk/23749).
+> ### Java -> [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
+:pushpin: Guia de intalação do Java: [Tutorial DevMedia - Intalação e configuração](https://www.devmedia.com.br/instalacao-e-configuracao-do-pacote-java-jdk/23749).
 
-> ### :pushpin: Eclipse -> [Download do Eclipse](https://www.eclipse.org/).
-- Guia de intalação do Eclipse IDE: [Tutorial de intalação](https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839).
+> ### Eclipse -> [Download do Eclipse](https://www.eclipse.org/).
+:pushpin: Guia de intalação do Eclipse IDE: [Tutorial de intalação](https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839).
 
 *******
 
@@ -54,5 +54,5 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 <div id='autor'/>
 
 ## :pencil2: Autor :computer:
-- Bruno Noberto [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
+- Bruno Noberto: [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
 *******
