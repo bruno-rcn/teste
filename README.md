@@ -1,4 +1,4 @@
-# Sintaxe-basica - Java
+# **Sintaxe-basica - Java**
 
 # Status do Projeto
 > - Finalizado! :white_check_mark:
