@@ -54,7 +54,7 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 <div id='execucao'/>
 
 ## :file_folder: Como executar a aplicação
-> - Clonar o projeto em seu computador: [link para clonar o projeto](https://www.eclipse.org/)
+> - Clonar o projeto em seu computador: [link para clonar o projeto](https://github.com/bruno-rcn/Sintaxe-basica.git)
 > - Clonar o projeto e abrir ele no Eclipse;
 > - Ir na classe que possua o método main;
 > - Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run;
