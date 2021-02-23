@@ -1,4 +1,4 @@
-# **Sintaxe-basica - Java**
+
 
 # Status do Projeto
 > - Finalizado! :white_check_mark:
@@ -7,9 +7,10 @@
 # :file_folder: Tabela de conteúdo
 1. [Sobre o Projeto](#sobre)
 2. [Técnologias utilizadas](#ferramentas)
-3. [Como montar o ambiente](#ambiente)
-4. [Como executar a aplicação](#execucao)
-5. [Autor](#autor)
+3. [Pré requisitos](#requisitos)
+4. [Como montar o ambiente](#ambiente)
+5. [Como executar a aplicação](#execucao)
+6. [Autor](#autor)
 
 *******
 
@@ -30,6 +31,14 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 
 *******
 
+<div id='requisitos'/>
+
+## :file_folder: Requisitos para rodar o projeto
+1. Ter o Java intalado;
+2. Ter um editor de texto instalado;
+
+*******
+
 <div id='ambiente'/>
 
 ## :file_folder: Como montar o ambiente
@@ -45,6 +54,7 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 <div id='execucao'/>
 
 ## :file_folder: Como executar a aplicação
+> - Clonar o projeto em seu computador: [link para clonar o projeto](https://www.eclipse.org/)
 > - Clonar o projeto e abrir ele no Eclipse;
 > - Ir na classe que possua o método main;
 > - Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run;
