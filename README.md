@@ -59,25 +59,25 @@
 :pushpin: Guia de intalação do Eclipse IDE: [Tutorial de intalação](https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839).
 
 > ### ChromeDriver -> [Download do ChromeDriver](https://chromedriver.chromium.org/downloads).
-:pushpin: OBS: Verificar a versão do seu Chrome antes de baixar o ChromeDriver. Para isso siga os passos a seguir:
+#### OBS: Verificar a versão do seu Chrome antes de baixar o ChromeDriver. Para isso siga os passos a seguir:
 
-- Abrir o brownser do Google Chrome;
-- Clicar nos 3 pontos no menu superior direito;
-- Ir na opção de Ajuda;
-- Cliar em Sobre o Google Chrome;
-- Na tela irá ter um quadro branco com o título Google Chrome e sua versão abaixo.
-ex: O Google Chrome está atualizado Versão 89.0.4389.90 (Versão oficial) 64 bits
-- Assim, seguindo este ex você deve baixar a versão 89 do ChromeDriver;
+> - Abrir o brownser do Google Chrome;
+> - Clicar nos 3 pontos no menu superior direito;
+> - Ir na opção de Ajuda;
+> - Cliar em Sobre o Google Chrome;
+> - Na tela irá ter um quadro branco com o título Google Chrome e sua versão abaixo.
+> ex: O Google Chrome está atualizado Versão 89.0.4389.90 (Versão oficial) 64 bits
+> - Assim, seguindo este ex você deve baixar a versão 89 do ChromeDriver;
 
-> ### Adicionar o caminho do ChromeDriver nas variáveis de ambiente
-- Após baixar o ChromeDriver, criar uma pasta no diretório C: chamada ChromeDriver e colocar o arquivo descompactado nela;
-- Na barra de pesquisas do windows digitar var e clicar em Editar as variáveis de ambiente do sistema;
-- Na janela que está aberta, clicar em variáveis de ambiente;
-- Em variáveis de sistema encontrar a variável path e clicar duas vezes nela;
-- No canto superior direito clicar no botão Novo;
-- Adicionar o caminho para a pasta onde esta o arquivo do ChromeDriver.
-Obs: Caso tenha seguido os passos acima o caminho será: C:\ChromeDriver;
-- Clicar em OK até fechar todas as janelas;
+#### Adicionar o caminho do ChromeDriver nas variáveis de ambiente
+> - Após baixar o ChromeDriver, criar uma pasta no diretório C: chamada ChromeDriver e colocar o arquivo descompactado nela;
+> - Na barra de pesquisas do windows digitar var e clicar em Editar as variáveis de ambiente do sistema;
+> - Na janela que está aberta, clicar em variáveis de ambiente;
+> - Em variáveis de sistema encontrar a variável path e clicar duas vezes nela;
+> - No canto superior direito clicar no botão Novo;
+> - Adicionar o caminho para a pasta onde esta o arquivo do ChromeDriver.
+> Obs: Caso tenha seguido os passos acima o caminho será: C:\ChromeDriver;
+> - Clicar em OK até fechar todas as janelas;
 
 *******
 
