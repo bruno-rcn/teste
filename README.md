@@ -94,10 +94,12 @@ Obs: Caso tenha seguido os passos acima o caminho será: C:\ChromeDriver;
 
 <div id='documentacao'/>
 
-> :blue_book: : [Documentação Java](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html).
-> :blue_book: : [Documentação Eclipse](https://www.eclipse.org/documentation/).
-> :blue_book: : [Documentação Selenium](https://www.selenium.dev/documentation/pt-br/getting_started/).
-> :blue_book: : [Documentação Maven](https://maven.apache.org/guides/index.html).
+## :file_folder: Documentação
+
+> - :blue_book: : [Documentação Java](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html).
+> - :blue_book: : [Documentação Eclipse](https://www.eclipse.org/documentation/).
+> - :blue_book: : [Documentação Selenium](https://www.selenium.dev/documentation/pt-br/getting_started/).
+> - :blue_book: : [Documentação Maven](https://maven.apache.org/guides/index.html).
 
 *******
 
