@@ -10,7 +10,8 @@
 3. [Pré requisitos](#requisitos)
 4. [Como montar o ambiente](#ambiente)
 5. [Como executar a aplicação](#execucao)
-6. [Autor](#autor)
+6. [Documentação](#documentacao)
+7. [Autor](#autor)
 
 *******
 
@@ -27,7 +28,7 @@
 - Linguagem: Java;
 - Plataforma: Windows;
 - IDE: Eclipse;
-- Selenium;
+- Biblioteca: Selenium;
 - Maven;
 - Driver: ChromeDriver;
 
@@ -88,6 +89,15 @@ Obs: Caso tenha seguido os passos acima o caminho será: C:\ChromeDriver;
 > - Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run;
 > - Caso queira executar apenas um teste, clicar duas vezes no nome do método para selecioná-lo;
 > - Em seguida, clicar no nome do método selecionado com o botão direito do mouse, descer as opções até encontrar Run as, depois Junit test;
+
+*******
+
+<div id='documentacao'/>
+
+> :blue_book: : [Documentação Java](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html).
+> :blue_book: : [Documentação Eclipse](https://www.eclipse.org/documentation/).
+> :blue_book: : [Documentação Selenium](https://www.selenium.dev/documentation/pt-br/getting_started/).
+> :blue_book: : [Documentação Maven](https://maven.apache.org/guides/index.html).
 
 *******
 
